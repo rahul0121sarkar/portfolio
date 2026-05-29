@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Projectdetails from "./Projectdetails";
+import Projectdetails from "./ProjectDetails";
 
 const Project = ({
   title,
