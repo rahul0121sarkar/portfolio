@@ -363,7 +363,7 @@ export const experiences = [
   {
     title: "Full Stack Developer",
     job: "Bizconnect XploR",
-    date: "Feb 2025-Present",
+    date: "Feb 2025 - Jul 2026",
     contents: [
       "Built and deployed personal and client-facing web pages using React, Vite, and basic Next.js, improving UI quality and performance across multiple projects.",
       "Developed interactive applications, including a digital photobooth app that captures user images and applies digital frames dynamically using Web APIs and front-end processing.",
